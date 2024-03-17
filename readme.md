@@ -1,4 +1,4 @@
-# Challange 2 - by Akbar Hamonangan Lubis - Digitalent Kominfo
+# Challange 3 - by Akbar Hamonangan Lubis - Digitalent Kominfo
 Project based RestAPI yang sudah bukan hal yang jarang dilakukan yaitu menggunakan konsep RestAPI.
 - untuk menginstall dependensi yang digunakan bisa kalian buka terminal kemudian tuliskan command dibawah:
   - go get -u "github.com/gin-gonic/gin"
@@ -15,3 +15,6 @@ Project based RestAPI yang sudah bukan hal yang jarang dilakukan yaitu menggunak
 # Menjalankan hasil program
 - Run: go run main.go nomorUrut | misal: go run main.go 1
 - Build: make build Makefile
+
+# Tambahan:
+- Menambahkan Authorization

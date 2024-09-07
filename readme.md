@@ -1,4 +1,4 @@
-# Challange 3 - by Akbar Hamonangan Lubis - Digitalent Kominfo
+# Challange 3 - by Akbar Hamonangan Lubis - Digitalent Kominfossssss
 Project based RestAPI yang sudah bukan hal yang jarang dilakukan yaitu menggunakan konsep RestAPI.
 - untuk menginstall dependensi yang digunakan bisa kalian buka terminal kemudian tuliskan command dibawah:
   - go get -u "github.com/gin-gonic/gin"
